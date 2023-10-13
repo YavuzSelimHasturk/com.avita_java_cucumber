@@ -136,7 +136,7 @@ public class AvitaStepDefinitions {
 
     @And("The User click on the Satin Almayi Tamamla button bottom of the page")
     public void theUserClickOnTheSatinAlmayiTamamlaButtonBottomOfThePage() {
-         // avitaPages.clickOnButtonSubmitBottomOfPage();
+          avitaPages.clickOnButtonSubmitBottomOfPage();
         logger.info("Clicked on the Satin Almayi Tamamla button bottom of the page");
     }
 }

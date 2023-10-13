@@ -1,0 +1,23 @@
+2023-10-13 11:59:03,107 +0300 [main] INFO  (AvitaStepDefinitions.java:22) - Navigated to test url
+2023-10-13 11:59:05,033 +0300 [main] INFO  (AvitaStepDefinitions.java:28) - Clicked the Kayit Ol button in the header section
+2023-10-13 11:59:05,947 +0300 [main] INFO  (AvitaStepDefinitions.java:39) - Filled in the required information on the registration page
+2023-10-13 11:59:08,540 +0300 [main] INFO  (AvitaStepDefinitions.java:48) - Clicked the Kayit Ol button bottom of the page
+2023-10-13 11:59:08,608 +0300 [main] INFO  (AvitaStepDefinitions.java:55) - Correct registration verified
+2023-10-13 11:59:10,820 +0300 [main] INFO  (AvitaStepDefinitions.java:22) - Navigated to test url
+2023-10-13 11:59:12,823 +0300 [main] INFO  (AvitaStepDefinitions.java:61) - Clicked the Giris Yap button in the header section
+2023-10-13 11:59:13,097 +0300 [main] INFO  (AvitaStepDefinitions.java:66) - Filled in the required information on the login page
+2023-10-13 11:59:13,530 +0300 [main] INFO  (AvitaStepDefinitions.java:73) - Clicked the Kayit Ol button bottom of the page
+2023-10-13 11:59:14,408 +0300 [main] INFO  (AvitaStepDefinitions.java:79) - Correct login verified
+2023-10-13 11:59:17,442 +0300 [main] INFO  (AvitaStepDefinitions.java:22) - Navigated to test url
+2023-10-13 11:59:17,856 +0300 [main] INFO  (AvitaStepDefinitions.java:61) - Clicked the Giris Yap button in the header section
+2023-10-13 11:59:18,088 +0300 [main] INFO  (AvitaStepDefinitions.java:66) - Filled in the required information on the login page
+2023-10-13 11:59:18,838 +0300 [main] INFO  (AvitaStepDefinitions.java:73) - Clicked the Kayit Ol button bottom of the page
+2023-10-13 11:59:19,224 +0300 [main] INFO  (AvitaStepDefinitions.java:85) - Clicked on the Yeni Seans Al button in the Online Seanslar section
+2023-10-13 11:59:19,764 +0300 [main] INFO  (AvitaStepDefinitions.java:96) - Filled in the required information on the Yeni Seans Satin Al page
+2023-10-13 11:59:20,219 +0300 [main] INFO  (AvitaStepDefinitions.java:102) - Clicked on the Devam et button bottom of the page
+2023-10-13 11:59:20,996 +0300 [main] INFO  (AvitaStepDefinitions.java:118) - Filled in the Degerlendirme Sorulari section on the Yeni Seans Satin Al page
+2023-10-13 11:59:21,451 +0300 [main] INFO  (AvitaStepDefinitions.java:102) - Clicked on the Devam et button bottom of the page
+2023-10-13 11:59:21,739 +0300 [main] INFO  (AvitaStepDefinitions.java:126) - Filled in the Appointment Date and Time section on the Yeni Seans Satin Al page
+2023-10-13 11:59:22,173 +0300 [main] INFO  (AvitaStepDefinitions.java:102) - Clicked on the Devam et button bottom of the page
+2023-10-13 11:59:22,908 +0300 [main] INFO  (AvitaStepDefinitions.java:133) - Filled in the Payment and Billing information sections on the Yeni Seans Satin Al page
+2023-10-13 11:59:22,971 +0300 [main] INFO  (AvitaStepDefinitions.java:140) - Clicked on the Satin Almayi Tamamla button bottom of the page
