@@ -30,4 +30,5 @@ Feature: Avita Tests
     And The User click on the Devam et button bottom of the page
     And The User fills in the Payment and Billing information sections on the Yeni Seans Satin Al page
     And The User click on the Satin Almayi Tamamla button bottom of the page
+    Then The user verify that online booking is created successfully
 

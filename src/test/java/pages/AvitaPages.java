@@ -251,5 +251,11 @@ public class AvitaPages {
     public void clickOnTheSellingAggreementCheckbox(){
         ReusableMethods.clickWithJS(checkBoxSellingAgreement);
     }
+    @FindBy(className = "col-md-5")
+    WebElement completedBooking;
+    public void assertionCompletedBooking(){
+        assert (completedBooking.isDisplayed());
+    }
+
 
 }

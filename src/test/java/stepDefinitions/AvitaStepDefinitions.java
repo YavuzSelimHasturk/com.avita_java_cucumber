@@ -8,6 +8,7 @@ import org.apache.log4j.Logger;
 import pages.AvitaPages;
 import utils.ConfigReader;
 import utils.Driver;
+import utils.ReusableMethods;
 
 
 public class AvitaStepDefinitions {
@@ -138,5 +139,11 @@ public class AvitaStepDefinitions {
     public void theUserClickOnTheSatinAlmayiTamamlaButtonBottomOfThePage() {
           avitaPages.clickOnButtonSubmitBottomOfPage();
         logger.info("Clicked on the Satin Almayi Tamamla button bottom of the page");
+        ReusableMethods.bekle(10);
+    }
+
+    @Then("The user verify that online booking is created successfully")
+    public void theUserVerifyThatOnlineBookingIsCreatedSuccessfully() {
+        avitaPages.assertionCompletedBooking();
     }
 }
